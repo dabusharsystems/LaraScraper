@@ -64,3 +64,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## To Use the Scraper
+
+php artisan scrape:website https://example.com/products . Also check and make sure the selectors match the target site.
